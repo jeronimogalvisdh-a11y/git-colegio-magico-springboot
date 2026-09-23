@@ -12,4 +12,4 @@ Responde a las siguientes preguntas como parte de tu evaluación final. Guarda u
     la compatibilidad de un archivo a otro
 
 4.  **¿Qué aprendiste sobre la creación de APIs REST y el uso de Jakarta en esta academia?**
-    Aprendi bastante de su uso aunque se me dificulta un poco
+    Aprendi bastante de su uso aunque se me dificulta un poquito la verdad
